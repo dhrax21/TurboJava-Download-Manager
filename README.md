@@ -7,6 +7,9 @@
 **Overview:**
 Turbo Java Downloader is a robust and efficient Internet Download Manager (IDM) designed to provide a seamless downloading experience. Developed using Java and JavaFX, Turbo Java Downloader combines powerful download capabilities with an intuitive and user-friendly graphical interface. This application is engineered to handle multiple downloads simultaneously, ensuring fast and reliable performance.
 
+![Screenshot 2024-06-18 103755](https://github.com/dhrax21/TurboJava-Download-Manager/assets/112228200/60ac7358-3563-477e-ac20-7935a97de02e)
+
+
 **Key Features:**
 
 1. **Multi-Threaded Downloads:** Leveraging the power of multi-threading, Turbo Java Downloader splits files into smaller parts and downloads them concurrently, significantly reducing download times.
